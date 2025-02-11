@@ -96,7 +96,7 @@ Python, SQL, Tableau, Google Analytics, BigQuery, Datorama
 
 ## 技術スタック
 
-<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+<div style="display: grid; gap: 15px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
 
 <div>
 
