@@ -1,4 +1,6 @@
 # akihirosasaki resume
+## Data
+[Github Pages](https://akihirosasaki.github.io/resume/)
 
 ## Features
 
