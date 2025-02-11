@@ -95,86 +95,28 @@ Python, SQL, Tableau, Google Analytics, BigQuery, Datorama
 ---
 
 ## 技術スタック
+### 言語
+|言語|業務経験|
+|---|---|
+|<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />|6 年|
+|<img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />|6 年|
 
-<div style="display: grid; gap: 15px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
-  <div>
-    <table>
-      <thead>
-        <tr>
-          <th>言語</th><th>業務経験</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /></td>
-          <td>6 年</td>
-        </tr>
-        <tr>
-          <td><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></td>
-          <td>6 年</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div>
-    <table>
-      <thead>
-        <tr>
-          <th>フレームワーク</th><th>業務経験</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" /></td>
-          <td>2 年</td>
-        </tr>
-        <tr>
-          <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></td>
-          <td>6 年</td>
-        </tr>
-        <tr>
-          <td><img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" /></td>
-          <td>2 年</td>
-        </tr>
-        <tr>
-          <td><img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white" /></td>
-          <td>2 年</td>
-        </tr>
-        <tr>
-          <td><img alt="Google Apps Script" src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=Google%20Apps%20Script&logoColor=white" /></td>
-          <td>3 年</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div>
-    <table>
-      <thead>
-        <tr>
-          <th>ツール</th><th>業務経験</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img alt="LookerStudio" src="https://img.shields.io/badge/-LookerStudio-4285F4?style=flat-square&logo=Google&logoColor=white" /></td>
-          <td>3 年</td>
-        </tr>
-        <tr>
-          <td><img alt="Vertex AI" src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white" /></td>
-          <td>2 年</td>
-        </tr>
-        <tr>
-          <td><img alt="trocco" src="https://img.shields.io/badge/-trocco-FF6347?style=flat-square&logo=trocco&logoColor=white" /></td>
-          <td>1 年</td>
-        </tr>
-        <tr>
-          <td><img alt="fivetran" src="https://img.shields.io/badge/-fivetran-007ACC?style=flat-square&logo=fivetran&logoColor=white" /></td>
-          <td>1 年</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
+### フレームワーク
+|フレームワーク|業務経験|
+|---|---|
+|<img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />|2 年|
+|<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />|6 年|
+|<img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />|2 年|
+|<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white" />|2 年|
+|<img alt="Google Apps Script" src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=Google%20Apps%20Script&logoColor=white" />|3 年|
+
+### ツール
+|ツール|業務経験|
+|---|---|
+|<img alt="LookerStudio" src="https://img.shields.io/badge/-LookerStudio-4285F4?style=flat-square&logo=Google&logoColor=white" />|3 年|
+|<img alt="Vertex AI" src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white" />|2 年|
+|<img alt="trocco" src="https://img.shields.io/badge/-trocco-FF6347?style=flat-square&logo=trocco&logoColor=white" />|1 年|
+|<img alt="fivetran" src="https://img.shields.io/badge/-fivetran-007ACC?style=flat-square&logo=fivetran&logoColor=white" />|1 年|
 
 ---
 ## スキル
