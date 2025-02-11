@@ -6,7 +6,7 @@
 |---|---|
 |氏名|佐々木彬弘|
 |居住地|東京都|
-|最終学歴|東京大学経済学部|
+|最終学歴|東京大学 経済学部 経済学科|
 
 ---
 
@@ -21,22 +21,22 @@
 ## 職務経歴詳細
 
 ### 株式会社Antway（2021/11〜現在）
-お惣菜 D2C サービス「つくりおき。jp」を運営するスタートアップ
+お惣菜 D2C サービス「[つくりおき.jp](https://www.tsukurioki.jp/)」を運営するスタートアップ。
 
 #### 2024/08〜現在 エンジニアリングマネージャー
 
-ソフトウェアエンジニア・データサイエンティストの組織のマネージャー
+ソフトウェアエンジニア・データサイエンティストの組織のマネージャー。
 
-プロジェクト規模：  
-7-8 名の組織
+##### プロジェクト規模：  
+7-8 名の組織。
 
-使用技術：  
-特になし
+##### 使用技術：  
+特になし。
 
-役割：  
-プレイングマネージャー
+##### 役割：  
+プレイングマネージャー。
 
-担当プロジェクト
+##### 担当プロジェクト
 - 戦略策定
 - エンジニア採用
   - テックブログの開始
@@ -48,18 +48,33 @@
 
 #### 2021/11〜2024/07 データエンジニア・データサイエンティスト
 
-1 人目のデータ人材として、データ組織立ち上げから基盤構築・分析・効果検証・メーリングリスト開発の推進
+1 人目のデータ人材として、データ組織立ち上げから基盤構築・分析・効果検証・メーリングリスト開発の推進。
 
-プロジェクト規模：  
-基本的に 1 人+副業数名
+##### プロジェクト規模：  
+基本的に 1 人+副業数名。
 
-使用技術：  
-Python, BigQuery, dbt, GitHub actions, trocco, fivetran, LightGBM, Vertex AI pipelines, streamlit
+##### 使用技術：  
+- Python
+- BigQuery
+- dbt
+- GitHub Actions
+- trocco
+- fivetran
+- LightGBM
+- Vertex AI pipelines
+- streamlit
 
-役割：  
-データ戦略策定、 データエンジニアリング、 施策効果検証設計、 メーリングリスト開発、MLOps 開発、 CI/CD 開発、 データマネジメント、 採用
+##### 役割：  
+- データ戦略策定
+- データエンジニアリング
+- 施策効果の検証設計
+- 機械学習アルゴリズム開発
+- MLOps 開発
+- CI/CD 開発
+- データマネジメント
+- 採用
 
-担当プロジェクト
+##### 担当プロジェクト
 - 0 からのデータ基盤構築
   - データ基盤の論理レイヤー(raw, staging, warehouse, mart)構成
   - dbt を導入し、データモデリングの管理と CICD の整備。分析用データマートの全社展開
@@ -75,20 +90,28 @@ Python, BigQuery, dbt, GitHub actions, trocco, fivetran, LightGBM, Vertex AI pip
 
 日本最大級の不動産・住宅に関する総合情報サービス「SUUMO」にて、データアナリスト・ウェブマーケターとして従事。
 
-プロジェクト規模：  
-3 人程度のチーム
+##### プロジェクト規模：  
+3 人程度のチーム。
 
-使用技術：  
-Python, SQL, Tableau, Google Analytics, BigQuery, Datorama
+##### 使用技術：  
+- Python
+- SQL
+- Tableau
+- Google Analytics
+- BigQuery
+- Datorama
 
-役割：  
-データ分析、マーケティング施策の効果検証、ダッシュボード構築、プロジェクトマネジメント、広告運用
+##### 役割：  
+- データ分析
+- マーケティング施策の効果検証
+- ダッシュボード構築
+- プロジェクトマネジメント
+- 広告運用
 
-担当プロジェクト：
-- 複数の大規模データセットを利用した、サービス横断のカスタマー行動分析
-- 統計分析を用いたマーケティング施策の効果検証 PJ 推進
-- KPI 設計とマーケティング用ダッシュボードの構築、 レポーティング
-- マーケティング効果モニタリングシステム構築におけるプロジェクトマネジメント・要件定義・設計・開発・テスト・リリース・運用保守
+##### 担当プロジェクト：
+- 記事広告のアトリビューション効果について、Causal Impact を用いた効果検証 PJ の推進
+- マーケティング組織管理のプロダクトにおける集客状況をモニタリングするダッシュボードの構築
+- ウェブ広告効果モニタリングシステム構築におけるプロジェクトマネジメント・要件定義・設計・開発・テスト・リリース・運用保守
 - ウェブ広告のインハウス運用（リスティング・ディスプレイ）
 - アフィリエイト広告・アライアンスマーケティング施策立案推進
 
@@ -118,15 +141,45 @@ Python, SQL, Tableau, Google Analytics, BigQuery, Datorama
 | ツール | 業務経験 |
 | :-- | :-- |
 | [![LookerStudio](https://img.shields.io/badge/-LookerStudio-4285F4?style=flat-square&logo=Google&logoColor=white)](https://lookerstudio.google.com/) | 3 年 |
+| [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/) | 3 年 |
 | [![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](https://cloud.google.com/vertex-ai) | 2 年 |
 | [![trocco](https://img.shields.io/badge/-trocco-FF6347?style=flat-square&logo=trocco&logoColor=white)](https://trocco.io/) | 1 年 |
 | [![fivetran](https://img.shields.io/badge/-fivetran-007ACC?style=flat-square&logo=fivetran&logoColor=white)](https://www.fivetran.com/) | 1 年 |
 
 ---
 ## スキル
+- データエンジニアリング
+  - SQL・BigQuery を用いたデータモデリング、ETL パイプラインの構築
+  - dbt を用いたデータ変換処理の管理、データ品質テストの実装
+  - データドキュメントの整備、データガバナンスの確立
+  - クラウドインフラ（GCP）の構築・運用
 
+- データサイエンス
+  - Python を用いた統計分析、機械学習モデルの開発
+  - A/B テストの設計・実施・効果検証
+  - 機械学習パイプラインの構築（MLOps）
+  - 予測モデルの開発と本番環境への展開
+
+- エンジニアリングマネジメント
+  - 技術戦略の策定・実行
+  - チームビルディング・採用
+  - エンジニアの育成・評価
+  - プロジェクトマネジメント
+
+- その他
+  - 新しい技術への素早いキャッチアップ
+  - データドリブンな意思決定の推進
+  - ステークホルダーとの効果的なコミュニケーション
+  - プロジェクトの要件定義から運用保守までの一貫した推進
 
 ---
+## 就業条件
+
+- リモートワーク・フルフレックス希望（現在は週 2〜3 回程度出社していますが、曜日は自分で選択可能）
+- 家庭の都合で、年に数ヶ月台湾からリモートワークしています
+
+---
+
 ## 保有資格
 - TOEIC 875（2021/11）
 - IELTS OA7.0（2024/05）
